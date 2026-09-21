@@ -122,8 +122,8 @@ ToDayIt은 프론트엔드와 백엔드를 별도의 저장소로 운영합니�
 
 | 저장소 | 담당 영역 | 설명 |
 | --- | --- | --- |
-| [frontend](https://github.com/today-it/frontend) | Frontend | ToDayIt 반응형 웹 화면, 사용자 인터랙션, 클라이언트 상태와 프론트엔드 협업 문서를 관리합니다. |
-| [backend](https://github.com/today-it/backend) | Backend | 회원, 장소, 코스, 추천과 외부 데이터 연동을 위한 API 및 비즈니스 로직을 관리합니다. |
+| [frontend](https://github.com/today-it/frontend) | Web Application | 반응형 웹 화면, 사용자 인터랙션, 클라이언트 상태와 프론트엔드 협업 문서를 관리합니다. |
+| [backend](https://github.com/today-it/backend) | API & Domain | 회원, 장소, 코스, 추천과 외부 데이터 연동을 위한 API 및 비즈니스 로직을 관리합니다. |
 
 각 저장소의 구체적인 구현 기능, 기술 스택, 내부 구조와 개발 규칙은 해당 저장소의 README에서 확인할 수 있습니다.
 
